@@ -32,10 +32,10 @@ List the key features of your chat application. For example:
 Please follow the below instruction for installation
 
   # Clone the repository
-  git clone https://github.com/your-username/chat-app.git
+  git clone (https://github.com/shreyanema/My-Chat-Application.git)
   
   # Navigate to the project directory
-  cd chat-app
+  cd My Chat Application
   
   # Install dependencies
   npm install
