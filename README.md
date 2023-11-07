@@ -18,7 +18,6 @@ Whether you want to have one-on-one conversations, group chats, or share files a
 
 **Features**
 
-List the key features of your chat application. For example:
   Real-time chat
   User authentication
   Private and group chats
