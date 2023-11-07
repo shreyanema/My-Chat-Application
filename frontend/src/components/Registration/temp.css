@@ -1,0 +1,86 @@
+
+/* #164863 - teAL
+#0174BE; */
+
+body {
+    font-family: Arial;
+    color: white;
+    background-color: white;
+  }
+  
+  
+  .split {
+    height: 80%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    width: 50%;
+    overflow-x: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+  
+  .left {
+    left: 0;
+    background-color: #164863;
+    margin: 50px 0px 50px 50px;
+   
+  }
+  
+  .right {
+    right: 0;
+    background-color: #edf8f9;
+    margin: 50px 50px 50px 0px;
+   
+   
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-60%, -55%);
+    text-align: center;
+  }
+  
+  .centered img {
+    width: 300px;
+    
+  }
+   .formbox{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 5px solid #0174BE;
+    padding: 18px 18px 18px 18px;
+    border-radius: 10px;
+    text-align: left;
+   }  
+   .label{
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+   }
+  
+   .forminput{
+    padding: 2px 5px 2px 5px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 6px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+   
+   .Submit{
+    justify-content: center;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 4px 6px 4px 6px;
+    color: white;
+    background-color: #0174BE;
+    border-color: white;
+   }
+   
+  
+   table td{
+    width: max-content;
+   }
